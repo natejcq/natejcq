@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @natejcq
 - 👀 I’m interested in Web development, DSA, Python
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Python
 - 💞
 - 📫 How to reach me: nathan.cardoso@spit.ac.in
 
