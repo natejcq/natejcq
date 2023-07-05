@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development, DSA, Python
 - 🌱 I’m currently learning Python
 - 💞
-- 📫 How to reach me: nathan.cardoso@spit.ac.in
+- 📫 How to reach me: nathan.cardoso@spit.ac.in / nathanjci000@gmail.com
 
 <!---
 natejcq/natejcq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
